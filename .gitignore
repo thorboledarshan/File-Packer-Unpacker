@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# Pack files generated during testing
+*.pak
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
